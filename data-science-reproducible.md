@@ -12,6 +12,7 @@ Some of them are collected from other sources (including text description). Refe
 
 1. [Tools and techniques](#tools-and-techniques)
     * [Reproducible Data Analysis in Jupyter](#reproducible-data-analysis-in-jupyter)
+    * [Testing for data analysis](#testing-for-data-analysis)
 
     
 1. [Reproducible academic publications](#reproducible-academic-publications)
@@ -29,6 +30,19 @@ Some of them are collected from other sources (including text description). Refe
 ### Reproducible Data Analysis in Jupyter
 
 * [Useful tools and techniques for Data Science](https://jakevdp.github.io/blog/2017/03/03/reproducible-data-analysis-in-jupyter/) by [Jake VanderPlas](https://jakevdp.github.io/pages/about.html) 
+
+
+### Testing for data analysis
+
+* [Testing for data analysis notebook](https://github.com/mkcor/advanced-pandas/blob/master/notebooks/04_testing.ipynb). Notebook for testing code and data by [Marianne Corvellec](https://github.com/mkcor)
+
+
+### Log properties about the DataFrames using decorators 
+
+* [Log properties about the DataFrames](https://tomaugspurger.github.io/method-chaining). An example from [Modern Pandas (Part 2): Method Chaining](https://tomaugspurger.github.io/method-chaining) notebook by [Tom Augspurger](https://github.com/TomAugspurger).
+
+
+
 
 
 

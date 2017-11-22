@@ -52,13 +52,19 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 ## Visualization libs for Python 
 
-* [matplotlib]() for Python
+* [matplotlib](http://matplotlib.org/) - a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 * [seaborn](http://seaborn.pydata.org/) for statistical charts
 * [prettyplotlib](http://olgabot.github.io/prettyplotlib/) Python matplotlib-enhancer library which painlessly creates beautiful default matplotlib plots. 
 * [altair](https://altair-viz.github.io/) Altair is a declarative statistical visualization library for Python, based on Vega-Lite
 * [bokeh](https://bokeh.pydata.org/en/latest/) A Python interactive visualization library that targets modern web browsers for presentation.
 * [plot.ly](https://plot.ly/python/) Plotly's Python graphing library makes interactive, publication-quality graphs online.
 
+other interestitng libraries and tools to review 
+* [Lightning](http://lightning-viz.org/documentation/#introduction) - Lightning is a framework for interactive data visualization, including a server, visualizations, and client libraries
+* [HoloViews](http://holoviews.org/) - Stop plotting your data - annotate your data and let it visualize itself! 
+* [Glue](http://www.glueviz.org/en/stable/python_guide/glue_from_python.html) - Multidimensional data exploration. Glue is a Python library to explore relationships within and among related datasets
+* [VisPy](http://vispy.org/index.html) - VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use.
+* [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks 
 
 ## Data Visualization Framework (in progress...)
 
@@ -78,14 +84,24 @@ What purposes do the have for data visualization?
 What is data about? What types of data? And what visualization channels are appropriate? 
 
 
-### Tasks (why do we need visualization?) (TBD)
+### Tasks (why do we need visualization?)
 
-   * discover distribution
-   * compare trends
-   * locate outliers
-   * browse topology
-   * compare shapes  
+   * descriptive analysis 
+       * discover distribution
+       * discover central tendency
+       * discover dispersion
+       * discover bivariate distribution (via scatterplots)
+       * build cross-tabulations and contingency tables 
 
+        
+   * exploratory data analysis (EDA)
+       * compare trends
+       * locate outliers
+       * browse topology
+       * compare shapes  
+       * explore hypotheses on data relationships 
+       * explore new patterns
+       
 ### Means and tools (how to do reach our goals?) (TBD)
 
    * Encoding 
@@ -112,12 +128,11 @@ What is data about? What types of data? And what visualization channels are appr
         * Embed  
 
 
-## Visualization means 
+## Visualization techniques 
 
 ### Histograms 
 
 * [What's so hard about histograms?](http://tinlizzie.org/histograms/). A step by step guide to using histograms lots of data visualizations
-
 
 
 ## t-SNE

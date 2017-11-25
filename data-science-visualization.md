@@ -54,7 +54,6 @@ prettyplotlib, Stack Overflow, and seaborn](http://nbviewer.ipython.org/gist/msu
 
 * [matplotlib](http://matplotlib.org/) - a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
 * [seaborn](http://seaborn.pydata.org/) for statistical charts
-* [prettyplotlib](http://olgabot.github.io/prettyplotlib/) Python matplotlib-enhancer library which painlessly creates beautiful default matplotlib plots. 
 * [altair](https://altair-viz.github.io/) Altair is a declarative statistical visualization library for Python, based on Vega-Lite
 * [bokeh](https://bokeh.pydata.org/en/latest/) A Python interactive visualization library that targets modern web browsers for presentation.
 * [plot.ly](https://plot.ly/python/) Plotly's Python graphing library makes interactive, publication-quality graphs online.

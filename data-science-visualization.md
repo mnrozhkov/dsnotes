@@ -205,3 +205,4 @@ What is data about? What types of data? And what visualization channels are appr
 
 * [Big Picture Group](https://research.google.com/bigpicture/). We explore how information visualization can make complex data accessible, useful, and even fun
 
+* [Text Visualization Browser](http://textvis.lnu.se/), A Visual Survey of Text Visualization Techniques
